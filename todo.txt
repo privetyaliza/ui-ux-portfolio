@@ -1,0 +1,10 @@
+--turn cards into buttons
+--make a picture for each project
+--write short descriptions for projects
+--MAKE A PAGE FOR EACH PROJECT
+--uniwaste
+--sportuni
+--budgetbuddy
+--publish to github
+--make a footer better
+--add navigation (or arrows between projects)
